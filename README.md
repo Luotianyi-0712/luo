@@ -14,7 +14,11 @@
 
 ![Visitor Count](https://camo.githubusercontent.com/5f2d51890be4be4f530dc09bc5b7c98a42a590637bb66cedef3df9159237a3ea/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f407a78793637383f7468656d653d72756c653334)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luotianyi-0712/Luotianyi-0712/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luotianyi-0712/Luotianyi-0712/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luotianyi-0712/Luotianyi-0712/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 技术栈🛠️
 <p align="left"> 
