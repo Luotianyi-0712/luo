@@ -10,7 +10,12 @@
 
 ![摸鱼](image/摸鱼.jpg)
 
-应该写点什么但是不知道写什么
+- 👋 这里是洛洛
+- 👀 一位18岁的魔法少女
+- 🌱 喜欢一切热烈的事物，包括你
+- 💞️ Minecraft骨灰级玩家
+- 📫 擅长唱，跳，rap, 篮球(
+
 
 ![Visitor Count](https://count.getloli.com/@:Luotianyi-0712)
 
